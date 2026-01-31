@@ -20,4 +20,5 @@ greaterThan.addEventListener("click", function(){
     if (click > 0){
         lessThan.style.visibility = "visible"
     }
+
 })
